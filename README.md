@@ -1,7 +1,6 @@
-# crashsdk
-调试查看崩溃日志信息sdk工具，避免adb快速打印定位找不到具体bug
+# crashsdk接入使用
+需求：调试查看崩溃日志信息sdk工具，快速定位bug位置
 
-## 接入使用步骤，
 1、下载crashsdk，依赖项目中
 ```
 implementation project(path: ':crashsdk')
