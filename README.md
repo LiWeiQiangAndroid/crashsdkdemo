@@ -29,7 +29,6 @@ implementation project(path: ':crashsdk')
 
 效果如下
 
-![image](https://github.com/LiWeiQiangAndroid/crashsdkdemo/raw/master/png/WX20200419-013628.png)  
-![image](https://github.com/LiWeiQiangAndroid/crashsdkdemo/raw/master/png/WX20200419-013659.png)  
+![image](https://github.com/LiWeiQiangAndroid/crashsdkdemo/raw/master/png/WX20200419-013628.png)  ![image](https://github.com/LiWeiQiangAndroid/crashsdkdemo/raw/master/png/WX20200419-013659.png) 
 
 
